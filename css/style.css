@@ -4,6 +4,7 @@ body {
 
 .heder {
     display: flex;
+    gap: 10px;
 }
 
 .heder_img {
