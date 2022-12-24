@@ -1,5 +1,7 @@
 body {
     background: linear-gradient(to bottom right, rgb(93, 93, 250), pink);
+    display: flex;
+    justify-content: center;
 }
 
 .heder {
@@ -28,4 +30,9 @@ body {
 
 .span_bolt {
     font-weight: bold;
+}
+
+.yetInfo p {
+    padding: 0;
+    margin: 0;
 }
