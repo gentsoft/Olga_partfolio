@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to bottom right, rgb(93, 93, 250), pink);
+}
+
+.heder {
+    display: flex;
+}
+
+.heder_img {
+    max-height: 500px;
+    max-width: 50%;
+}
+
+.heder__info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.mySelf,
+.foWork,
+.yetInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.span_bolt {
+    font-weight: bold;
+}

@@ -1,0 +1,7 @@
+@media (max-width: 550px) {
+
+    .heder {
+        flex-direction: column;
+    }
+
+}
